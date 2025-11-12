@@ -1,0 +1,17 @@
+material ArucoTag
+{
+  technique
+  {
+    pass
+    {
+      diffuse 1.0 1.0 1.0 1.0
+      specular 0.4 0.4 0.4 1
+      
+      texture_unit
+      {
+        texture aruco-201.png
+        filtering trilinear
+      }
+    }
+  }
+}

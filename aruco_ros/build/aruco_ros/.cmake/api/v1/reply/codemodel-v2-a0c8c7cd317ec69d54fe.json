@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-92ba0d4629de2c2e90df.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "aruco_ros",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_ros_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_ros_uninstall-3d82b7191a779dcbd77b.json",
+					"name" : "aruco_ros_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_ros_utils::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_ros_utils-9cd80a089ace9fbf1c46.json",
+					"name" : "aruco_ros_utils",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "double::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-double-27f086a0c27eaf204b76.json",
+					"name" : "double",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "marker_publisher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-marker_publisher-7f19859b46e2dd1f8fc4.json",
+					"name" : "marker_publisher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "single::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-single-dbf603415ab95196304c.json",
+					"name" : "single",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-03964d36623689c25d28.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/ros2_ws/src/aruco_ros/build/aruco_ros",
+		"source" : "/home/user/ros2_ws/src/aruco_ros/aruco_ros"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

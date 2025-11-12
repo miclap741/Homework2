@@ -1,0 +1,10 @@
+# Goal
+float64 traj_duration
+---
+
+# Result
+float64 final_error
+
+---
+# Feedback
+float64 error
